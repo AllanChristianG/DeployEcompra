@@ -1,0 +1,16 @@
+com/ecompra/main/MainApplication.class
+com/ecompra/main/seguranca/UserDetailsServiceImpl.class
+com/ecompra/main/controller/CategoriaController.class
+com/ecompra/main/model/Usuario.class
+com/ecompra/main/service/UsuarioService.class
+com/ecompra/main/repository/CategoriaRepository.class
+com/ecompra/main/model/UserLogin.class
+com/ecompra/main/controller/ProdutoController.class
+com/ecompra/main/model/Produto.class
+com/ecompra/main/seguranca/BasicSecurityConfig.class
+com/ecompra/main/controller/UsuarioController.class
+com/ecompra/main/model/Categoria.class
+com/ecompra/main/seguranca/UserDetailsImpl.class
+com/ecompra/main/repository/ProdutoRepository.class
+com/ecompra/main/config/SwaggerConfig.class
+com/ecompra/main/repository/UsuarioRepository.class

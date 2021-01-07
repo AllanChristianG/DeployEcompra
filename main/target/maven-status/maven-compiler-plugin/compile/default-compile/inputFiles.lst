@@ -1,0 +1,16 @@
+/main/src/main/java/com/ecompra/main/model/Produto.java
+/main/src/main/java/com/ecompra/main/service/UsuarioService.java
+/main/src/main/java/com/ecompra/main/seguranca/BasicSecurityConfig.java
+/main/src/main/java/com/ecompra/main/MainApplication.java
+/main/src/main/java/com/ecompra/main/model/Usuario.java
+/main/src/main/java/com/ecompra/main/controller/UsuarioController.java
+/main/src/main/java/com/ecompra/main/repository/ProdutoRepository.java
+/main/src/main/java/com/ecompra/main/controller/ProdutoController.java
+/main/src/main/java/com/ecompra/main/seguranca/UserDetailsImpl.java
+/main/src/main/java/com/ecompra/main/seguranca/UserDetailsServiceImpl.java
+/main/src/main/java/com/ecompra/main/repository/UsuarioRepository.java
+/main/src/main/java/com/ecompra/main/repository/CategoriaRepository.java
+/main/src/main/java/com/ecompra/main/controller/CategoriaController.java
+/main/src/main/java/com/ecompra/main/model/Categoria.java
+/main/src/main/java/com/ecompra/main/config/SwaggerConfig.java
+/main/src/main/java/com/ecompra/main/model/UserLogin.java
